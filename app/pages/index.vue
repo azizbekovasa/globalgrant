@@ -137,7 +137,7 @@
           </div>
           <div class="mt-4">
             <button class="w-full bg-violet-600  text-white py-2 px-4 rounded-md text-sm font-medium transition-colors duration-300">
-              Get a link
+              Get a link!
             </button>
           </div>
         </div>
